@@ -1,0 +1,22 @@
+{
+  "name": "nest-project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/nest21/nest-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/nest21/nest-project/issues"
+  },
+  "homepage": "https://gitlab.com/nest21/nest-project#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
